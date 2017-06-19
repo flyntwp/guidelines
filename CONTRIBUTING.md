@@ -32,13 +32,13 @@ Before you submit your issue please search GitHub issues first, maybe your quest
 
 If your issue appears to be a bug, and hasn't been reported, open a new issue. Help us to maximize the effort we can spend fixing issues and adding new features, by not reporting duplicate issues. Providing the following information will increase the chances of your issue being dealt with quickly:
 
-- **Overview of the Issue** - if an error is being thrown a non-minified stack trace helps
-- **Motivation for or Use Case** - explain why this is a bug for you
+- **Overview of the Issue** - if an error is being thrown a non-minified stack trace helps.
+- **Motivation for or Use Case** - explain why this is a bug for you.
 - **Flynt Version(s)** - is it a regression?
 - **Browsers and Operating System** - is this a problem with all browsers or only specific ones?
 - **Reproduce the Error** - provide a live example, or an unambiguous set of steps.
 - **Related Issues** - has a similar issue been reported before?
-- **Suggest a Fix** - if you can't fix the bug yourself, perhaps you can point to what might be causing the problem (line of code or commit)
+- **Suggest a Fix** - if you can't fix the bug yourself, perhaps you can point to what might be causing the problem (line of code or commit).
 
 ## Feature Requests
 You can request a new feature by submitting an issue to the [relevant GitHub Repository](#submission-guidelines). If you would like to implement a new feature then consider what kind of change it is:
@@ -48,7 +48,7 @@ You can request a new feature by submitting an issue to the [relevant GitHub Rep
 
 
 ## Pull Requests
-Before you submit a pull request please consider the following guidelines:
+Before you submit a pull request please adhere to the following guidelines:
 
 - Search the [relevant GitHub repository](#submission-guidelines) for an open or closed pull request that relates to your submission. You don't want to duplicate effort.
 
@@ -67,10 +67,10 @@ git checkout -b myFixBranch master
 - Push your branch to GitHub:
 
 ```
-github push origin myFixBranch
+git push origin myFixBranch
 ```
 
-- In GitHub, send a pull request to the `master` branch.
+- In GitHub, send a pull request to the `master` branch. **If you are submitting a pull request to the [Flynt Start Theme](https://github.com/flyntwp/flynt-starter-theme), send your pull request to the `develop` branch, not `master`.**
 
 - If the pull request gets too out-dated, we may ask you to rebase and force push to update the pull request:
 
