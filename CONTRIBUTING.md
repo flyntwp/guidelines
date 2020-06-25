@@ -19,12 +19,10 @@ Help us keep Flynt open and inclusive. Please read and follow our [Code of Condu
 ## Submission Guidelines
 We use GitHub issues for each Flynt repository to keep track of all incoming queries (feature requests, bug reports, and questions). Please use the most relevant repository for submitting your issue:
 
-- [Flynt Theme Issues](https://github.com/flyntwp/flynt-starter-theme/issues)
-- [Flynt Core Issues](https://github.com/flyntwp/flynt-core/issues)
-- [Flynt Docs Issues](https://github.com/flyntwp/flynt-docs/issues)
-- [Flynt CLI Issues](https://github.com/flyntwp/flynt-cli/issues)
+- [Flynt Issues](https://github.com/flyntwp/flynt/issues)
 - [Flynt Generator Issues](https://github.com/flyntwp/generator-flynt/issues)
-- [Flynt Docker Issues](https://github.com/flyntwp/docker-flynt-build/issues)
+- [Flynt Snippets Issues](https://github.com/flyntwp/flynt-vscode-snippets/issues)
+- [ACF Hide Layout Issues](https://github.com/flyntwp/acf-hide-layout/issues)
 - [ACF Field Composer Issues](https://github.com/flyntwp/acf-field-group-composer/issues)
 
 ### Issues and Bugs
@@ -58,8 +56,6 @@ Before you submit a pull request please adhere to the following guidelines:
 git checkout -b myFixBranch master
 ```
 
-- **If you are submitting a change for the [Flynt Starter Theme](https://github.com/flyntwp/flynt-starter-theme), branch from the `develop` branch, not `master`.**
-
 - Follow our [Coding Rules](#coding-rules).
 
 - Commit your changes using a descriptive commit message that follows our [commit message conventions](#commit-messages)
@@ -72,7 +68,7 @@ git checkout -b myFixBranch master
 git push origin myFixBranch
 ```
 
-- In GitHub, send a pull request to the `master` branch. **If you are submitting a pull request to the [Flynt Starter Theme](https://github.com/flyntwp/flynt-starter-theme), send your pull request to the `develop` branch, not `master`.**
+- In GitHub, send a pull request to the `master` branch.
 
 - If we suggest changes, then:
     - Make the required updates.
@@ -109,4 +105,3 @@ When writing view templates or style files, please always:
 
 - Use 2 spaces to indent your code.
 - Follow the [MaintainableCSS](https://maintainablecss.com/) approach to CSS.
-- Keep the [Flynt best practices](https://docs.flyntwp.com/guide/best-practices) in mind.
