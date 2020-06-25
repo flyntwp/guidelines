@@ -23,7 +23,7 @@ We use GitHub issues for each Flynt repository to keep track of all incoming que
 - [Flynt Generator Issues](https://github.com/flyntwp/generator-flynt/issues)
 - [Flynt Snippets Issues](https://github.com/flyntwp/flynt-vscode-snippets/issues)
 - [ACF Hide Layout Issues](https://github.com/flyntwp/acf-hide-layout/issues)
-- [ACF Field Composer Issues](https://github.com/flyntwp/acf-field-group-composer/issues)
+- [ACF Field Group Composer Issues](https://github.com/flyntwp/acf-field-group-composer/issues)
 
 ### Issues and Bugs
 Before you submit your issue please search GitHub issues first, maybe your question was already answered.
